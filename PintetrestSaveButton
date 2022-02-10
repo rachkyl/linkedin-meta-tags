@@ -12,6 +12,16 @@
   <a data-pin-do="buttonBookmark" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/">big-button</a>
   
   <a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/">simple-button</a>
+  
+  <a data-pin-do="embedPin" href="https://www.pinterest.com/pin/99360735500167749/">Шпилька-smal</a>
+  
+  <a data-pin-do="embedPin" data-pin-width="medium" href="https://www.pinterest.com/pin/99360735500167749/">Шпилька-regular</a>
+  
+  <a data-pin-do="embedPin" data-pin-width="large" href="https://www.pinterest.com/pin/99360735500167749/">Шпилька-big</a>
+  
+  <a data-pin-do="embedBoard" data-pin-board-width="150" data-pin-scale-height="800" data-pin-scale-width="60" href="https:/ /www.pinterest.com/pinterest/official-news/">board</a>
+  
+  <a data-pin-do="embedUser" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https:/ /www.pinterest.com/pinterest/">Profile</a>
 <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
 </body>
 </html>
